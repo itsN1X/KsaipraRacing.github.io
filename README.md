@@ -2,4 +2,4 @@
 ### VIT University, Vellore
 
 ##### THE OFFICIAL WEBSITE 
-for Ksaipra Racing - Formula SAE student team from VIT University, Vellore.
+Made with :<3 for Ksaipra Racing - Formula SAE student team from VIT University, Vellore.
